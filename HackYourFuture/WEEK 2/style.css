@@ -1,0 +1,65 @@
+@import url("css/flexbox.css");
+@import url("css/float.css");
+
+
+section {
+    display: inline-block;
+   }
+
+header {
+    text-align: center;
+}
+
+h1 {
+    color:rgb(231, 83, 15);
+    font-size: 3.50em;
+}
+
+h2 {
+    text-align: center;
+    color: brown;
+    font-size: 2em;
+
+}    
+
+h3 {
+    text-align: center;  
+    color: black;
+    font-size: 1.50em; 
+    margin: 3px 5px;      
+}
+
+p{
+    margin: 2px 9px;
+    text-align: justify;
+}
+
+img {     
+    width: 500px;
+}
+
+li{
+    list-style: none;
+    margin-top: 30px;
+    height: 390px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+    
